@@ -1,6 +1,6 @@
 const registerForm = document.forms["form-register"];
 const loginForm = document.forms["form-login"];
-const url = "http://localhost:3000/account";
+const url = "https://huduma-api.herokuapp.com/account";
 
 const registerBtn = document.querySelector("#registerBtn");
 const loginBtn = document.querySelector("#loginBtn");
